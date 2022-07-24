@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nickdelcarlo
 - 👀 I’m interested in Technology, AI, ML, Big Data and Analytics, Product Creation, Continuous Learning and Training Development.
 - 🌱 I’m currently learning everything from Drone Algorithms to Lean Portfolio Management.
-- 💞️ I’m looking to collaborate on scaling agile across the Enterprise, Product Applications and Strategy.
+- 💞️ I’m looking to collaborate on scaling Agile across the Enterprise, Product Applications and Strategy.
 - 📫 You can reach me via email or LinkedIn.
 - Thanks in Advance!
 
