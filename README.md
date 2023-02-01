@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nickdelcarlo
-- 👀 I’m interested in Technology: Agile Coaching, AI, ChatBot Creation, ML, Python, R, Big Data and Analytics, Product Creation, Continuous Learning, Training and Development.
+- 👀 I’m interested in Technology: Agile Coaching, Creating High Performing Teams, AI, ChatBot Creation, Data Science, ML, Python, Big Data and Analytics, Product Creation, Continuous Learning, Training and Development.
 - 🌱 
 - 💞️ 
 - 📫 You can reach me via email or LinkedIn.
