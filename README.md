@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nickdelcarlo
-- 👀 I’m interested in Technology and Innovation: Agile Coaching, Creating High Performing Teams, AI, Application Development, ChatBot Creation, Data Science, ML, Python Programming, IoT Design and Security, Big Data and Analytics and Innovative Product Creation.
+- 👀 I’m interested in Technology and Innovation: Agile Coaching, Agile Engineering, Creating High Performing Teams, AI, Application Development, ChatBot Creation, Data Science, ML, Python Programming, IoT Design and Security, Big Data and Analytics and Innovative Product Creation.
 - Won innovation awards with Application Development.
 - Top 3 Miro Contributor 2023.  
 - 🌱 
