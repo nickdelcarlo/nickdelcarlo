@@ -5,8 +5,6 @@
 - Won innovation awards with Application Development.
 - 2023 Top 3 Miro Creator Award - Top 3 Most Viewed Miroverse Template, 65M users.
 - Developed Financial Market Prediction Application based upon patterns with Python.
-- 🌱 
-- 💞️ 
 - 📫 You can reach me via email or LinkedIn.
 - Thanks in Advance!
 
